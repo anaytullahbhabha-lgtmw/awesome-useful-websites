@@ -233,6 +233,7 @@ Each website is included only once. Some websites can fall into multiple categor
 - [Focus Game](https://focus-game.org) - A lightweight browser-based focus training game for improving concentration through short interactive sessions.
 - [Schulte Table](https://schulte-table.org) - A web-based Schulte table tool for training visual attention, peripheral vision, and speed reading.
 - [Online Lists Maker](https://onlinelistsmaker.com/) - Free online list maker, create and share lists instantly with no signup.
+
 ### White Board
 
 - [TypeHere](https://typehere.co/) - Blank website where you can only type.
@@ -250,7 +251,6 @@ Each website is included only once. Some websites can fall into multiple categor
 - [MindMup](https://www.mindmup.com/) - Free online mind mapping.
 - [Anotepad](https://anotepad.com/) - Online notepad. No login. Download your note as PDF or Word document.
 - [Notes.io](https://notes.io/) - Web-based application for taking notes.
-- 
 
 ### Diagrams
 
